@@ -1,0 +1,22 @@
+// GOD'S EYE 
+// Define property of x-axis
+float A1 = -0.5f;
+float f1 = 0.1f;
+float p1 = 0.0f;
+float d1 = 0.0001f;
+
+// Define property of y-axis
+float A2 = -0.5f;
+float f2 = 0.1f;
+float p2 = M_PI/2.0f;
+float d2 = 0.0001f;
+
+// Define property of sheet movement
+float A3 = 0.5f;
+float f3 = 0.101f;
+float p3_x = 0.0f;
+float p3_y = M_PI/2.0f;
+float d3 = 0.0001f;
+
+
+

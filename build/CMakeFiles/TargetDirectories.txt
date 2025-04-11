@@ -1,0 +1,3 @@
+/home/quentin/PROJECTS/computational-drawing/build/CMakeFiles/computational-drawing.dir
+/home/quentin/PROJECTS/computational-drawing/build/CMakeFiles/edit_cache.dir
+/home/quentin/PROJECTS/computational-drawing/build/CMakeFiles/rebuild_cache.dir
